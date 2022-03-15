@@ -96,6 +96,7 @@ p{
     background: var(--Light-Grayish-Blue);
     border: 6px solid var(--Light-Grayish-Blue);
     border-radius: 50px;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 800px) {
