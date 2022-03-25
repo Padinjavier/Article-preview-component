@@ -8,6 +8,5 @@ const toggleElement = (element, nameClass) => {
 flecha.forEach(function (item) {
 	item.addEventListener('click', () => {
 		toggleElement(share, 'active')
-		toggleElement(body, 'no_scroll')
 	})
 })
